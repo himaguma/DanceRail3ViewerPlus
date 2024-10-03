@@ -1,0 +1,7 @@
+{
+    "name": "com.himaguma.dr3viewerplus",
+    "version": "0.1.0",
+    "displayName": "DanceRail3ViewerPlus",
+    "description": "It is an extension of DanceRail3Viewer.",
+    "unity": "2021.2"
+}
